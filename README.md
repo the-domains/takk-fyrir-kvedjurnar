@@ -1,0 +1,1 @@
+# takk-fyrir-kvedjurnar
