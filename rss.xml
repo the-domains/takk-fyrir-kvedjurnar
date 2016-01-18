@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Takk fyrir kveðjurnar]]></title>
+        <description><![CDATA[Takk fyrir kveðjurnar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 10:10:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Það er gaman að eiga afmæli á Facebook, hafsjór vinalegra kveðja hellast yfir mann. Nú bar svo við að á afmælisdaginn minn var ég á erlendri grundu og var ekki laust við að mér liði  </p>]]></description>
+            <link>undefined94f53493-9694-41d9-93ff-251e04095368/index.html</link>
+            <guid isPermaLink="false">94f53493-9694-41d9-93ff-251e04095368</guid>
+            <pubDate>Mon, 18 Jan 2016 10:10:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
