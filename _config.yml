@@ -1,0 +1,29 @@
+name: Takk fyrir kveðjurnar
+favicon: null
+layout_spectrum: 0.1615168866701424
+typography_spectrum: 0.522283703321591
+title: Takk fyrir kveðjurnar
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6278543209191412
+  lightness: 0.910675598308444
+  saturation: 0.94022087729536
+  rhythmicContrast: 0.8220607959665358
+purpose: []
